@@ -71,7 +71,7 @@ jobs:
           VUE_APP_SENTRY_DNS: ${{ secrets.VUE_APP_SENTRY_DNS }}
 
       - name: release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           draft: true
           repository: manuelernestog/weektodo
