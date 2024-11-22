@@ -7267,15 +7267,15 @@ linkify-it@^4.0.1:
   dependencies:
     uc.micro "^1.0.1"
 
-linkify-string@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/linkify-string/-/linkify-string-3.0.4.tgz#6abf1a5e436e800c729274ae08f5703484647f84"
-  integrity sha512-OnNqqRjlYXaXipIAbBC8sDXsSumI1ftatzFg141Pw9HEXWjTVLFcMZoKbFupshqWRavtNJ6QHLa+u6AlxxgeRw==
+linkify-string@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/linkify-string/-/linkify-string-4.1.4.tgz#89fb814e05c5b22f76d2a2a640bc8b1db4c6694f"
+  integrity sha512-4z2UEzEi4SxnhWMzzZ8Pa8vIOwX/2U0XWxk/0UIA7lI+Dn0ZRKqTE9ildnO6Jl6K5hqVuLKTeMD8p4bdFW6P8g==
 
-linkifyjs@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-3.0.5.tgz#99e51a3a0c0e232fcb63ebb89eea3ff923378f34"
-  integrity sha512-1Y9XQH65eQKA9p2xtk+zxvnTeQBG7rdAXSkUG97DmuI/Xhji9uaUzaWxRj6rf9YC0v8KKHkxav7tnLX82Sz5Fg==
+linkifyjs@^4.1.4:
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/linkifyjs/-/linkifyjs-4.1.4.tgz#2766605a20078d50c90f35af22275a42dfb7dfc4"
+  integrity sha512-0/NxkHNpiJ0k9VrYCkAn9OtU1eu8xEr1tCCpDtSsVRm/SF0xAak2Gzv3QimSfgUgqLBCDlfhMbu73XvaEHUTPQ==
 
 loader-fs-cache@^1.0.0:
   version "1.0.3"
