@@ -34,7 +34,7 @@
     "axios": "^1.7.7",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
-    "core-js": "^3.20.1",
+    "core-js": "^3.39.0",
     "cryptocurrency-icons": "^0.17.1",
     "electron-config": "^2.0.0",
     "is-electron": "^2.2.1",
