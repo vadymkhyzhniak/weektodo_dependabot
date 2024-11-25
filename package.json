@@ -46,7 +46,7 @@
     "rrule": "^2.6.9",
     "vue": "^3.5.13",
     "vue-i18n": "^9.1.9",
-    "vue3-datepicker": "^0.2.5",
+    "vue3-datepicker": "^0.4.0",
     "vuex": "^4.0.2",
     "webpack": "5.96.1"
   },
