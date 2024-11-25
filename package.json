@@ -35,7 +35,7 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "core-js": "^3.39.0",
-    "cryptocurrency-icons": "^0.17.1",
+    "cryptocurrency-icons": "^0.18.1",
     "electron-config": "^2.0.0",
     "is-electron": "^2.2.1",
     "linkify-string": "^4.1.4",
